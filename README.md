@@ -1,18 +1,56 @@
-# sourcing-partner-transparency
+# Menu Transparency & Accuracy
 
-## Functional Requirements - Steps for a restaurant to update list of sourcing partners
-1. Restaurant logins to App
-2. Restaurant adds a new Sourcing Partner to its list
-3. App publishes the updates to the Sourcing Partner, inviting them to make comments or remarks
+## Functional Requirements - Steps for a food reviewer to classify restaurants as :
+1. Vegan - (in green label)
+2. Vegetarian - (in orange label)
+3. Regular - (in red label)
 
-## Functional Requirements - Steps for a Sourcing Partner to acknowledge a Restaurant
-1. Sourcing Partner logins to App
-2. Sourcing Partner receives notification of being mentioned by a Restaurant
-3. Sourcing Partner adds a comment or remarks
-4. App publishes the comments or remarks to Customers
+## Functional Requirements - Steps for a food reviewer check a hashtag box for each dish in a particular restaurant of above 3 labels,  give reviewers options to add their own hashtag
+1.  Vegan - (in green label)
+    #dairyfree
+    #eggfree
+    #withnuts
+    #withgarlic
+    #withonion
+    #glutenfree
+    #withsoybean
+    #organic
+    #locallysourced
+    #withhoney
+    #MSG
 
-## Functional Requirements - Steps for a customer to browse for restaurants
-1. App displays to Customer a list of nearby vegan restaurants
-2. App displays to Customer a list of sourcing partners of a selected Restaurant
-3. App displays to Customer remarks regarding the Restaurant and its Sourcing Partner
-4. Customer sort or filter restaurants based on the sourcing partner information
+2.  Vegetarian - (in orange label)
+    #containdairy
+    #containegg
+    #withnuts
+    #withgarlic
+    #withonion
+    #glutenfree
+    #withsoybean
+    #organic
+    #locallysourced
+    #withhoney
+    #MSG
+    
+3.  Regular - (in red label)
+    #dairyfree
+    #eggfree
+    #containdairy
+    #containegg
+    #withnuts
+    #withgarlic
+    #withonion
+    #glutenfree
+    #withsoybean
+    #organic
+    #locallysourced
+    #withhoney
+    #separatewok
+    #samewok
+    #withoystersauce
+    #MSG
+
+
+
+
+
